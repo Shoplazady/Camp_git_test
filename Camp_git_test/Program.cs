@@ -12,6 +12,8 @@ namespace Camp_git_test
         {
             Console.Write("Hello");
             Console.Write("Hello guy");
+            Console.Write("Hello world");
+
 
         }
     }
