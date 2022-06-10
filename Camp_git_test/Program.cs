@@ -10,7 +10,9 @@ namespace Camp_git_test
     {
         static void Main(string[] args)
         {
-            Console.write("Hello");
+            Console.Write("Hello");
+            Console.Write("Hello guy");
+
         }
     }
 }
